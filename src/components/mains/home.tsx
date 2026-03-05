@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import profile from "../../assets/profile.jpg";
-
 const StyledMain = styled.main`
     min-height: 100vh;
     width: 100%;
