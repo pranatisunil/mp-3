@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import profile from "../../assets/profile.jpg";
 
 const StyledMain = styled.main`
     min-height: 100vh;
@@ -30,7 +31,7 @@ export default function Home(){
             {}
             <h3>Home</h3>
             <div id="this-one">
-                <img src="../../../public/profile.JPG" alt="Pranati Sunil"/>
+                <img src={profile} alt="Pranati Sunil" />
                 <p>
                     Hi, My name is Pranati Sunil! I'm currently a sophomore majoring in computer science and
                     Economics with a Minor in Innovation and Entrepreneurship.
