@@ -29,7 +29,71 @@ export default function Certifications(){
             <h3 id="main-title">Documents</h3>
             <div id="main">
                 <div>
-                    <img id="resume" src="../../../public/paper-15-48.png" alt="resume"/>
+                    <table>
+                        <tbody>
+                        <tr>
+
+                            <th>Languages</th>
+                            <th>Level</th>
+                            <th>Years spent learning</th>
+                        </tr>
+                        </tbody>
+                        <tbody>
+                        <tr>
+                            <td>English</td>
+                            <td>n/a</td>
+                            <td>Native</td>
+                        </tr>
+                        </tbody>
+                        <tbody>
+                        <tr>
+                            <td>Hindi</td>
+                            <td>n/a</td>
+                            <td>Native</td>
+                        </tr>
+                        </tbody>
+                        <tbody>
+                        <tr>
+                            <td>French</td>
+                            <td>Level 2</td>
+                            <td>2 years</td>
+                        </tr>
+                        </tbody>
+
+                    </table>
+
+                    <table>
+                        <tbody>
+                        <tr>
+
+                            <th>Interests</th>
+                            <th>Age learnt</th>
+                            <th>Place/Projects </th>
+                        </tr>
+                        </tbody>
+                        <tbody>
+                        <tr>
+                            <td> Surfing</td>
+                            <td>18 years old</td>
+                            <td> Hawaii</td>
+                        </tr>
+                        </tbody>
+                        <tbody>
+                        <tr>
+                            <td> Skydiving</td>
+                            <td>12 years old</td>
+                            <td> New Zealand</td>
+                        </tr>
+                        </tbody>
+                        <tbody>
+                        <tr>
+                            <td> Baking</td>
+                            <td>n/a</td>
+                            <td> Home: Mysore</td>
+                        </tr>
+                        </tbody>
+
+                    </table>
                 </div>
             </div>
         </main>
