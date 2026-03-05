@@ -31,7 +31,7 @@ export default function References(){
             <h3 id="main-title">References</h3>
             <div>
                 <h5>Professional</h5>
-                <table border="|">
+                <table>
                     <tbody>
                     <tr>
 
@@ -66,7 +66,7 @@ export default function References(){
             </div>
             <div>
                 <h5>Personal</h5>
-                <table border="|">
+                <table>
                     <tbody>
                     <tr>
                         <th>Name</th>
