@@ -26,7 +26,7 @@ export default function Certifications(){
     return (
         <StyledMain>
         <main>
-            <h3 id="main-title">Documents</h3>
+            <h3 id="main-title">Skills and Interests</h3>
             <div id="main">
                 <div>
                     <table>
